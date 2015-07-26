@@ -10,15 +10,16 @@ The analisys file do the following:
 
 (1) Read the data from given files (training and the test) and merge them
 
-(2) Extracts from a combined set only the measurements on the mean and standard deviation for each measurement
+(2) Extracts from a combined set only the measurements on the mean and standard deviation for each measurement:
 
-   (2.1) Extracts the names of features from the corresponding file
-   (2.2) Determins the indexes of the given variable names that only correponds to "mean" and "standard deviation" fields
-   (2.3) Does the required extraction from the combined data frame
+    - (2.1) Extracts the names of features from the corresponding file
+    - (2.2) Determins the indexes of the given variable names that only correponds to "mean" and "standard deviation" fields
+    - (2.3) Does the required extraction from the combined data frame
 
-(3) Uses descriptive activity names to name the activities in the data set
-   (3.1) Extracts the names of activities from the corresponding file
-   (3.2) Assings these names to the column (levels) in the data set
+(3) Uses descriptive activity names to name the activities in the data set:
+
+    - (3.1) Extracts the names of activities from the corresponding file
+    - (3.2) Assings these names together to the columns (levels) in the data set
 
 
 (4) Appropriately labels the data set with descriptive variable names. 
