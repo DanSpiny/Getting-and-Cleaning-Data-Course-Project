@@ -8,16 +8,14 @@ output:
 ---
 
 ## Project Description
-Short description of the project
-Data collected from the accelerometers from the Samsung Galaxy S smartphone
+The purpose of this project is to demonstrate the ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. The project is based on the data collected from the accelerometers from the Samsung Galaxy S smartphone that represented at UCI Machine Lerning Repository as Human Activity Recognition Using Smartphones Data Set 
 
 ##Study design and data processing
 
 ###Collection of the raw data
-Description of how the data was collected.
+Initial raw data was downloaded from UCI Machine Learning repository
 
 ###Notes on the original (raw) data 
-Some additional notes (if avaialble, otherwise you can leave this section out).
 
 ##Creating the tidy datafile
 
