@@ -5,7 +5,7 @@ In this repo you could find 2 key files:
    1. run_analysis.R - R-file that contains the code to extract data from initial Human Activity Recognition Using Smartphones Data Set and make a tidy data set from it. 
    2. CodeBook.rmd - code book that describes the variables, the data, and transformations that I performed to clean up the data
 
-Just place this file in the same directory together with the Samsung data and run it.
+Just place this R-file in the same directory together with the Samsung data and run it.
 The analisys file do the following:
 
 (1) Read the data from given files (training and the test) and merge them
