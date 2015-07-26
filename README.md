@@ -7,6 +7,7 @@ In this repo you could find 2 key files:
 
 Just place this file in the same directory together with the Samsung data and run it.
 The analisys file do the following:
+
 (1) Read the data from given files (training and the test) and merge them
 
 (2) Extracts from a combined set only the measurements on the mean and standard deviation for each measurement
